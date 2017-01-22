@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loyFerse</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="items">Items</string>
+    <string name="category">Category</string>
+    <string name="discount">Discount</string>
+    <string name="title_activity_items">ItemsActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_discount">DiscountActivity</string>
+</resources>

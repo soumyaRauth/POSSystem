@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/sales_id"
+        android:icon="@mipmap/ic_shopping_basket_black_24dp"
+          android:title="Sales"/>
+
+    <item android:id="@+id/receipts_id"
+        android:icon="@mipmap/ic_receipt_black_24dp"
+        android:title="Receipts"/>
+
+    <item android:id="@+id/items_id"
+        android:icon="@mipmap/ic_view_list_black_24dp"
+        android:title="Items"/>
+
+    <item android:id="@+id/customer_care_id"
+        android:icon="@mipmap/ic_favorite_black_24dp"
+        android:title="Customer Care"/>
+
+    <item android:id="@+id/back_office_id"
+        android:icon="@mipmap/ic_web_black_24dp"
+        android:title="Back Office"/>
+
+    <item android:id="@+id/settings_id"
+        android:icon="@mipmap/ic_settings_black_24dp"
+        android:title="Settings"/>
+
+    <item android:id="@+id/support_id"
+        android:icon="@mipmap/ic_help_outline_black_24dp"
+        android:title="Support"/>
+
+
+
+</menu>
